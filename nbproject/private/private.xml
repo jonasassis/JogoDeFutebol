@@ -3,17 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Jonas/Documents/NetBeansProjects/JogoDeFutebol/src/Telas/CadastroNovoJogador.java</file>
-            <file>file:/C:/Users/Jonas/Documents/NetBeansProjects/JogoDeFutebol/src/Telas/Template.java</file>
             <file>file:/C:/Users/Jonas/Documents/NetBeansProjects/JogoDeFutebol/src/Telas/MenuPrincipal.java</file>
-            <file>file:/C:/Users/Jonas/Documents/NetBeansProjects/JogoDeFutebol/src/Utils/CalculoRanking.java</file>
+            <file>file:/C:/Users/Jonas/Documents/NetBeansProjects/JogoDeFutebol/src/Telas/Template.java</file>
             <file>file:/C:/Users/Jonas/Documents/NetBeansProjects/JogoDeFutebol/src/Telas/NovoJogo.java</file>
             <file>file:/C:/Users/Jonas/Documents/NetBeansProjects/JogoDeFutebol/src/Utils/JogarDado.java</file>
-            <file>file:/C:/Users/Jonas/Documents/NetBeansProjects/JogoDeFutebol/src/Banco/GravaArquivo.java</file>
-            <file>file:/C:/Users/Jonas/Documents/NetBeansProjects/JogoDeFutebol/src/Telas/Ranking.java</file>
+            <file>file:/C:/Users/Jonas/Documents/NetBeansProjects/JogoDeFutebol/src/Banco/CarregarJogadores.java</file>
             <file>file:/C:/Users/Jonas/Documents/NetBeansProjects/JogoDeFutebol/src/Telas/Tabuleiro.java</file>
             <file>file:/C:/Users/Jonas/Documents/NetBeansProjects/JogoDeFutebol/src/Utils/Jogador.java</file>
-            <file>file:/C:/Users/Jonas/Documents/NetBeansProjects/JogoDeFutebol/src/Banco/CarregarJogadores.java</file>
+            <file>file:/C:/Users/Jonas/Documents/NetBeansProjects/JogoDeFutebol/src/Banco/GravaArquivo.java</file>
+            <file>file:/C:/Users/Jonas/Documents/NetBeansProjects/JogoDeFutebol/src/Utils/CalculoRanking.java</file>
+            <file>file:/C:/Users/Jonas/Documents/NetBeansProjects/JogoDeFutebol/src/Telas/CadastroNovoJogador.java</file>
+            <file>file:/C:/Users/Jonas/Documents/NetBeansProjects/JogoDeFutebol/src/Telas/Ranking.java</file>
         </group>
     </open-files>
 </project-private>
